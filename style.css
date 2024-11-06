@@ -39,3 +39,9 @@
 .pics{
     margin-top: 300px;
 }
+.poke{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+  
+}
