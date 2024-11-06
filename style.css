@@ -1,0 +1,41 @@
+.header {
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+    font-size: 16px;
+    /* Adjust font size as needed */
+    font-weight: 400;
+    /* Regular weight, adjust to 500 or 600 for bolder text */
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    font-weight: bold ;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.my-photo img {
+    border-radius: 50px;
+    margin-bottom: 60px;
+}
+
+.talk-to-me{
+        background-color: black   ;
+        color: yellow;
+        width: 150px;
+        height: 50px;
+        margin-top: 70px;
+        border-radius: 10px;
+}
+
+.my-blog{
+    background-color: black   ;
+    color: orange;
+    width: 150px;
+    height: 50px;
+    margin-top: 70px;
+    border-radius: 10px;
+}
+.pics{
+    margin-top: 300px;
+}
